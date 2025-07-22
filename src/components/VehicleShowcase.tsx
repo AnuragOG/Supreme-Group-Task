@@ -19,32 +19,32 @@ export const VehicleShowcase = (): JSX.Element => {
     {
       id: 'complete-body',
       label: 'Complete body',
-      videoSrc: 'public/videos/Passenger-Alpha.mp4',
+      videoSrc: '/videos/Passenger-Alpha.mp4',
       thumbnailSrc: 'public/images/PA.png'
     },
     {
       id: 'front',
       label: 'Front',
-      videoSrc: 'public/videos/Passenger-Front.mp4',
-      thumbnailSrc: 'public/images/front.png'
+      videoSrc: 'public/videos/passenger-front.mp4',
+      thumbnailSrc: 'public/images/Front.png'
     },
     {
       id: 'cabin',
       label: 'Cabin',
-      videoSrc: 'public/videos/cabin.mp4',
-      thumbnailSrc: 'public/images/front.png'
+      videoSrc: 'public/videos/Cabin.mp4',
+      thumbnailSrc: 'public/images/Front.png'
     },
     {
       id: 'trunk',
       label: 'Trunk',
-      videoSrc: 'public/videos/trunk.mp4',
-      thumbnailSrc: 'public/images/trunk.png'
+      videoSrc: 'public/videos/Trunk.mp4',
+      thumbnailSrc: 'public/images/Trunk.png'
     },
     {
       id: 'exterior',
       label: 'Exterior',
-      videoSrc: 'public/videos/exterior.mp4',
-      thumbnailSrc: 'public/images/exterior.png'
+      videoSrc: 'public/videos/Exterior.mp4',
+      thumbnailSrc: 'public/images/Exterior.png'
     }
   ];
 
@@ -52,7 +52,7 @@ export const VehicleShowcase = (): JSX.Element => {
     {
       id: 'complete-body',
       label: 'Complete Body',
-      videoSrc: 'public/videos/truck.mp4',
+      videoSrc: 'public/videos/Truck.mp4',
       thumbnailSrc: 'public/images/PA.png'
     },
     {
