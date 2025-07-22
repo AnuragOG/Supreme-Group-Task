@@ -19,32 +19,32 @@ export const VehicleShowcase = (): JSX.Element => {
     {
       id: 'complete-body',
       label: 'Complete body',
-      videoSrc: '/src/assets/videos/Passenger-Alpha.mp4',
-      thumbnailSrc: '/src/assets/images/PA.png'
+      videoSrc: 'public/videos/Passenger-Alpha.mp4',
+      thumbnailSrc: 'public/images/PA.png'
     },
     {
       id: 'front',
       label: 'Front',
-      videoSrc: '/src/assets/videos/Passenger-Front.mp4',
-      thumbnailSrc: 'src/assets/images/front.png'
+      videoSrc: 'public/videos/Passenger-Front.mp4',
+      thumbnailSrc: 'public/images/front.png'
     },
     {
       id: 'cabin',
       label: 'Cabin',
-      videoSrc: 'src/assets/videos/cabin.mp4',
-      thumbnailSrc: '/src/assets/images/front.png'
+      videoSrc: 'public/videos/cabin.mp4',
+      thumbnailSrc: 'public/images/front.png'
     },
     {
       id: 'trunk',
       label: 'Trunk',
-      videoSrc: '/src/assets/videos/trunk.mp4',
-      thumbnailSrc: '/src/assets/images/trunk.png'
+      videoSrc: 'public/videos/trunk.mp4',
+      thumbnailSrc: 'public/images/trunk.png'
     },
     {
       id: 'exterior',
       label: 'Exterior',
-      videoSrc: '/src/assets/videos/exterior.mp4',
-      thumbnailSrc: '/src/assets/images/exterior.png'
+      videoSrc: 'public/videos/exterior.mp4',
+      thumbnailSrc: 'public/images/exterior.png'
     }
   ];
 
@@ -52,20 +52,20 @@ export const VehicleShowcase = (): JSX.Element => {
     {
       id: 'complete-body',
       label: 'Complete Body',
-      videoSrc: '/src/assets/videos/truck.mp4',
-      thumbnailSrc: '/src/assets/images/PA.png'
+      videoSrc: 'public/videos/truck.mp4',
+      thumbnailSrc: 'public/images/PA.png'
     },
     {
       id: 'engine',
       label: 'Engine',
-      videoSrc: '/src/assets/videos/Commercial-Engine.mp4',
-      thumbnailSrc: '/src/assets/images/Front.png'
+      videoSrc: 'public/videos/Commercial-Engine.mp4',
+      thumbnailSrc: 'public/images/Front.png'
     },
     {
       id: 'cabin',
       label: 'Cabin',
-      videoSrc: '/src/assets/videos/Commercial-Cabin.mp4',
-      thumbnailSrc: '/src/assets/images/Trunk.png'
+      videoSrc: 'public/videos/Commercial-Cabin.mp4',
+      thumbnailSrc: 'public/images/Trunk.png'
     }
   ];
 
